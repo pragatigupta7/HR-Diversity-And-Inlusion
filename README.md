@@ -6,13 +6,13 @@
 2. Track age, regional, job diversity, turnover rate, promotions, and more.
 3. Gain insights into gender diversity across different company dimensions
 ## Home
-![Home] (https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/home.png)
+![Home](https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/home.png)
 
 ## KPI's Metrics📊
-![KPIs 1] (https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/hiring.png)
+![KPIs 1](https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/hiring.png)
 
 ## HR Diversity Dashboard📈
-![HR Diversity Dashborad] (https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/perfomance.png)
+![HR Diversity Dashborad](https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/perfomance.png)
 
 ## KeyInsights
 ![keyinsights](https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/keyinsights.png)
