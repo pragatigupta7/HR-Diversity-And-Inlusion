@@ -15,7 +15,7 @@
 ![HR Diversity Dashborad] (https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/perfomance.png)
 
 ## KeyInsights
-![keyinsights] (https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/keyinsights.png)
+![keyinsights](https://github.com/pragatigupta7/HR-Diversity-And-Inlusion/blob/main/keyinsights.png)
 
 ## 🏗️Tools Used: 
 - Utilized Microsoft Power BI for data modeling and visualization.
